@@ -6,6 +6,10 @@
     "ios": "expo start --ios",
     "eject": "expo eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrqrvly/cyfnos.git"
+  },
   "dependencies": {
     "expo": "^32.0.0",
     "react": "16.5.0",

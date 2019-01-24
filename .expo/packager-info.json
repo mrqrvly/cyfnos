@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 4190,
-  "expoServerNgrokUrl": "https://rf-4fc.anonymous.cyfnos-village-v1-0-0.exp.direct",
-  "packagerNgrokUrl": "https://packager.rf-4fc.anonymous.cyfnos-village-v1-0-0.exp.direct",
-  "ngrokPid": 4209
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
